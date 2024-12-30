@@ -29,7 +29,7 @@ This app uses a combination of modern technologies and libraries to ensure a smo
 
 ### **Maps and Data**
 
-- **Google Maps API**: Provides an interactive map view with real-time updates of transport vehicle locations, route planning, and directions.
+- **MapBox SDK**: Provides an interactive map view with real-time updates of transport vehicle locations, route planning, and directions.
 - **Public Transport Data APIs**: Used to fetch live transport data, including real-time locations, schedules, and route information for buses, trains, and other public transport services.
 
 ## **Installation**
@@ -42,3 +42,16 @@ Before running the app, make sure you have the following tools installed:
 - **Expo CLI**: Install Expo CLI globally by running the following command:
   ```bash
   npm install -g expo-cli
+
+### **Setup**
+
+1. **Clone the repository** to your local machine:
+   ```bash
+   git clone https://github.com/your-username/public-transport-tracking-app.git
+2. cd public-transport-tracking-app
+3. Get the env file and add it to the root directory
+4. npm install
+5. npx expo prebuild
+6. npx expo run:android
+7. npx expo start
+
