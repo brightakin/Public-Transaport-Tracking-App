@@ -1,6 +1,6 @@
 export default {
   expo: {
-    name: "Tracking",
+    name: "Tracking App",
     slug: "Tracking",
     version: "1.0.0",
     orientation: "portrait",
