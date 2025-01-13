@@ -46,7 +46,6 @@ Before running the app, make sure you have the following tools installed:
 ### **Setup**
 
 1. **Clone the repository** to your local machine:
-   ```bash
    git clone https://github.com/your-username/public-transport-tracking-app.git
 2. cd public-transport-tracking-app
 3. Get the env file and add it to the root directory
