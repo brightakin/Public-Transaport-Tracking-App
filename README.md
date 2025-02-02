@@ -38,7 +38,7 @@ This app uses a combination of modern technologies and libraries to ensure a smo
 
 Before running the app, make sure you have the following tools installed:
 
-- **Node.js**: [Download and install Node.js](https://nodejs.org)
+- **Node.js**: [Download and install Node.js]
 - **Expo CLI**: Install Expo CLI globally by running the following command:
   ```bash
   npm install -g expo-cli
